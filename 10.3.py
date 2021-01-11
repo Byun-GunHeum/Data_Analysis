@@ -1,0 +1,10 @@
+#1번
+a=[]
+a=[10,20,30]
+a=list(range(10,31,10))
+#2번
+a=10,20,30,False,'Hello'
+a=(False,'Python')
+a=tuple([10,20,30])
+#3번
+a=tuple(range(10,10,3))
